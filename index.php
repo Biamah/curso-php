@@ -20,7 +20,7 @@
                     <h3>Módulo 01</h3>
 
                     <ul>
-                        <li><a href="#">Exercicio A</a></li>
+                        <li><a href="exercicio.php">Exercicio A</a></li>
                         <li><a href="#">Exercicio B</a></li>
                         <li><a href="#">Exercicio C</a></li>
                     </ul>
@@ -110,7 +110,7 @@
     </main>
 
     <footer class="rodape">
-        COD3R & ALUNOS ₢ 2019
+        COD3R & ALUNOS Ⓒ <?= date('Y'); ?>
     </footer>
 </body>
 </html>
