@@ -44,3 +44,11 @@ body.exercicio {
     border-bottom: 1px solid #999;
     margin-bottom: 20px;
 }
+
+.conteudo > p {
+    margin-bottom: 0;
+}
+
+.conteudo > hr {
+    margin-top: 0;
+}
